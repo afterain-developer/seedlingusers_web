@@ -1,0 +1,93 @@
+{
+  "name": "jumbo-6.x",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/cache": "^11.7.1",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@mui/icons-material": "^5.2.4",
+    "@mui/lab": "^5.0.0-alpha.59",
+    "@mui/material": "^5.2.4",
+    "@mui/x-data-grid": "^5.17.10",
+    "@mui/x-data-grid-pro": "^5.17.10",
+    "@mui/x-date-pickers": "^5.0.0-beta.7",
+    "@progress/kendo-licensing": "^1.2.2",
+    "@progress/kendo-react-excel-export": "^5.9.0",
+    "@react-google-maps/api": "^2.7.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "antd": "^5.8.2",
+    "autosuggest-highlight": "^3.3.4",
+    "axios": "^0.25.0",
+    "axios-mock-adapter": "^1.20.0",
+    "base-64": "^1.0.0",
+    "beautiful-react-hooks": "^1.2.0",
+    "connected-react-router": "^6.9.1",
+    "date-fns": "^2.29.2",
+    "formik": "^2.2.9",
+    "highcharts": "^11.3.0",
+    "highcharts-react-official": "^3.2.1",
+    "history": "^4.10.1",
+    "i18next": "^21.6.14",
+    "i18next-http-backend": "^1.4.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.43",
+    "notistack": "^2.0.3",
+    "papaparse": "^5.4.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-color": "^2.19.3",
+    "react-custom-scrollbars-2": "^4.4.0",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.16.2",
+    "react-iframe": "^1.8.5",
+    "react-input-mask": "^2.0.4",
+    "react-intl": "^5.20.13",
+    "react-kakao-maps-sdk": "^1.1.24",
+    "react-notifications": "^1.7.4",
+    "react-query": "^3.34.14",
+    "react-redux": "^7.2.5",
+    "react-router-dom": "6",
+    "react-scripts": "^5.0.0",
+    "react-slick": "^0.30.2",
+    "react-sortable-hoc": "^2.0.0",
+    "react-spring": "^9.7.3",
+    "react-static-plugin-raw-loader": "^1.0.4",
+    "react-transition-group": "^4.4.2",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "sweetalert2": "^11.3.4",
+    "sweetalert2-react-content": "^4.2.0",
+    "web-vitals": "^1.0.1",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.23.4"
+  },
+  "packageManager": "yarn@1.22.5"
+}
